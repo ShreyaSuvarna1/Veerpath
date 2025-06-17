@@ -1,0 +1,22 @@
+[
+  {
+    "title": "English",
+    "company": "Government of India",
+    "location": "Multiple Locations",
+    "link": "https://dgrindia.gov.in/Home/ChangeLanguage?lang=en&returnUrl=%2FErrors%2FNotFound%3Faspxerrorpath%3D%2Flatest-jobs",
+    "source": "DGR",
+    "posted": "N/A",
+    "scraped_at": "2025-06-03T03:21:34.442841",
+    "is_official": true
+  },
+  {
+    "title": "हिंदी",
+    "company": "Government of India",
+    "location": "Multiple Locations",
+    "link": "https://dgrindia.gov.in/Home/ChangeLanguage?lang=hi&returnUrl=%2FErrors%2FNotFound%3Faspxerrorpath%3D%2Flatest-jobs",
+    "source": "DGR",
+    "posted": "N/A",
+    "scraped_at": "2025-06-03T03:21:34.442841",
+    "is_official": true
+  }
+]
